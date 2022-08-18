@@ -46,7 +46,7 @@ public class Program {
 		}
 		System.out.printf("%d ", contar);
 		
-		
+		sc.close();
 	}
 
 }
